@@ -1,0 +1,3 @@
+MAIN=MrBot.py
+RAM=100
+VERSION=python3
